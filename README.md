@@ -14,9 +14,7 @@ ADDITIONAL FEATURES:
 	
 
 ABOUT:
-The object of this program is that it will create a vertual shopper robot. 
-This contains a robot that needs to navigate a map picking up items selected by the user.
-Then it will sort them and output the picked up items to the user.
+The purpose of this program is to show sorting and pathfinding algorithms in action.
 
 DEPENDENCIES:
 Python 3
